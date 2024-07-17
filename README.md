@@ -1,4 +1,4 @@
-# inflearn-jpa1
+# inflearn-jpa
 ## 섹션 1. 프로젝트 환경설정
 - 프로젝트 생성
 - 라이브러리 살펴보기
